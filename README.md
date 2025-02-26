@@ -1,1 +1,1 @@
-# Algoritm-forma-poloneza-TPA-Tehnici-de-programare-avansate
+# Algoritm-forma-poloneza-TPA-Tehnici-Avansate-de-Programare
